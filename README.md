@@ -1,13 +1,13 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://roomfulmoshe.github.io/" target="_blank">moshe.tech</a>
+  <a href="https://roomfulmoshe.github.io/MoshePortfolio" target="_blank">moshe.tech</a>
 </h2>
 
 <br/>
 
 ## Built With
 
-My personal portfolio <a href="https://roomfulmoshe.github.io/" target="_blank">moshe.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://roomfulmoshe.github.io/MoshePortfolio" target="_blank">moshe.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
