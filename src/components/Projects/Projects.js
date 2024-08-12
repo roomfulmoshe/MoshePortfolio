@@ -19,7 +19,21 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={market_simulator}
+              isBlog={false}
+              title="Stock Market Simulator"
+              description="Users can experience real time trading and charts without monetary risk. Watch your $1,000,000 Portfolio grow, and learn invaluable skills. Created using HTML, CSS, JavaScript, Firebase, and Financial Modeling API."
+              demoLink ="https://roomfulmoshe.github.io/paper_trading_project"
+              ghLink="https://github.com/roomfulmoshe/paper_trading_project.git"
+              gh = {true}
+              //TO-DO: If I can get this demo up and running again. I'll be extremely happy
+              //demoLink="somelink.com"
+            />
+          </Col>
           <Col md={4} className="project-card">
+
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
@@ -32,18 +46,6 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={market_simulator}
-              isBlog={false}
-              title="Stock Market Simulator"
-              description="Users can experience real time trading and charts without monetary risk. Watch your $1,000,000 Portfolio grow, and learn invaluable skills. Created using HTML, CSS, JavaScript, Firebase, and Alpha Vantage API."
-              ghLink="https://github.com/roomfulmoshe/paper_trading_project.git"
-              gh = {true}
-              //TO-DO: If I can get this demo up and running again. I'll be extremely happy
-              //demoLink="somelink.com"
-            />
-          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard

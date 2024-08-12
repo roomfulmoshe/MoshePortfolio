@@ -17,7 +17,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             I fell in love with what a few lines of <span className="purple"> code </span> can do for the world and I geared my curiosity to learn more. Now, I harness the power of technology to create innovative solutions and make a positive impact.
+             I fell in love with what a few lines of <span className="purple"> code </span> can do for the world and I geared my curiosity to learn more. Now, I harness the power of <span className="purple">technology</span> to create innovative solutions and make a positive impact.
               <br />
               <br />I am fluent in classics like
               <i>
