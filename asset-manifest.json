@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/MoshePortfolio/static/css/main.c690478f.css",
-    "main.js": "/MoshePortfolio/static/js/main.c80022df.js",
+    "main.js": "/MoshePortfolio/static/js/main.bf6f1a63.js",
     "static/js/415.4d6acbeb.chunk.js": "/MoshePortfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/MoshePortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/market_watch.jpg": "/MoshePortfolio/static/media/market_watch.34d40f5ebd28d1cc575f.jpg",
     "static/media/business_comp.jpg": "/MoshePortfolio/static/media/business_comp.993dcf2f12bc10f4c953.jpg",
+    "static/media/pickup.jpg": "/MoshePortfolio/static/media/pickup.1277670504900cf8d5c6.jpg",
     "static/media/logo.png": "/MoshePortfolio/static/media/logo.d4b3d17a49502d0c2871.png",
-    "static/media/Moshe_Shtaygrud_resume.pdf": "/MoshePortfolio/static/media/Moshe_Shtaygrud_resume.544317071cc30e573ac4.pdf",
+    "static/media/Moshe_Shtaygrud_resume.pdf": "/MoshePortfolio/static/media/Moshe_Shtaygrud_resume.0a0c82ee4eadcfd519de.pdf",
     "static/media/home-main.svg": "/MoshePortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/MoshePortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/stock_trading.jpg": "/MoshePortfolio/static/media/stock_trading.5dcfe3887f7fee87d684.jpg",
@@ -17,12 +18,12 @@
     "static/media/pre.svg": "/MoshePortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MoshePortfolio/index.html",
     "main.c690478f.css.map": "/MoshePortfolio/static/css/main.c690478f.css.map",
-    "main.c80022df.js.map": "/MoshePortfolio/static/js/main.c80022df.js.map",
+    "main.bf6f1a63.js.map": "/MoshePortfolio/static/js/main.bf6f1a63.js.map",
     "415.4d6acbeb.chunk.js.map": "/MoshePortfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/MoshePortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c690478f.css",
-    "static/js/main.c80022df.js"
+    "static/js/main.bf6f1a63.js"
   ]
 }
