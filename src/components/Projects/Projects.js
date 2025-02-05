@@ -6,6 +6,7 @@ import Competition from "../../Assets/Projects/business_comp.jpg";
 import marekt_watch from "../../Assets/Projects/market_watch.jpg";
 import chatify from "../../Assets/Projects/chatify.png";
 import market_simulator from "../../Assets//Projects/stock_trading.jpg";
+import pickup from "../../Assets//Projects/pickup.jpg";
 
 function Projects() {
   return (
@@ -68,6 +69,17 @@ function Projects() {
               description="Won $1,600 with a four-member team on a Fintech startup idea, a platform which empowers naive investors. Spearheaded UX design and led ideation sessions to develop core features, including an accessible algorithmic trading platform, aimed at democratizing investment opportunities for novice investors."
               gh = {false}
               // ghLink="https://github.com/"
+              // demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pickup}
+              isBlog={false}
+              title="Pickup react app"
+              description="Created a web application for users to find and host local sports games. The twist being that users can swipe, like tinder, on local pickup games, choosing to join the game or not. Users can filter by their location or specific sport. Users can also create games and have grainular access to who can join and select specific game attributes. Try it out. Will host this soon."
+              gh = {true}
+              ghLink="https://github.com/roomfulmoshe/pick-up-web-app"
               // demoLink=""
             />
           </Col>
